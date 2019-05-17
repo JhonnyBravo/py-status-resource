@@ -1,7 +1,7 @@
-status_resource
-===============
+py_status_resource
+==================
 
 .. toctree::
    :maxdepth: 4
 
-   status_resource
+   py_status_resource

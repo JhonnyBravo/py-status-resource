@@ -1,11 +1,11 @@
 """
-Unit tests for status_resource package.
+Unit tests for py_status_resource package.
 """
 import os
 import sys
 import unittest
 
-from status_resource import StatusResource
+from py_status_resource import StatusResource
 
 
 sys.path.insert(0, os.path.abspath('.'))

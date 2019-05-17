@@ -8,12 +8,12 @@ except IOError:
     long_description = ""
 
 setup(
-    name="python-status-resource",
+    name="py-status-resource",
     version="1.0.0",
     description="Python module for status management",
     author="Jhonny Bravo",
     author_email="sanfranceshika5@gmail.com",
-    url="https://github.com/JhonnyBravo/python-status-resource.git",
+    url="https://github.com/JhonnyBravo/py-status-resource.git",
     packages=find_packages(),
     install_requires=[],
     long_description=long_description,
